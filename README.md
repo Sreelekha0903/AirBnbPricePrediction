@@ -1,1 +1,1 @@
-# AirBnbPricePrediction
+Given a dataset with 24 variables such as number of bedrooms and a log-price indicator (greater than 0) for each observation in the training data, the objective is to suggest the log-price of a particular listing using the 24 features provided for the test observations. The suggested prices that are closest to the true prices, as calculated by the Root Mean Squared Error, scores highest on the leaderboard. 
